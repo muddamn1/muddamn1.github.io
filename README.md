@@ -21,8 +21,8 @@ This project involved creating a comprehensive, professional portfolio website f
 - **Client-Side State Management:** Used JavaScript cookies to store data on the client-side, allowing the website to "remember" users and personalize their experience across sessions.
 - **Cloud Deployment:** Hands-on experience with the development-to-deployment workflow using Git and GitHub Pages, making a web application publicly accessible.
 
-- **Live Deployed Website:** https://github.com/muddamn1  
-- **Project GitHub Repository:** https://github.com/muddamn1/waph-muddamn1
+- **Live Deployed Website:** (https://muddamn1.github.io/)  
+- **Project GitHub Repository:** https://github.com/muddamn1/muddamn1.github.io
 - **WAPH Project Repo:** [https://github.com/muddamn1/waph-muddamn1](https://github.com/muddamn1/waph-muddamn1)
 
 ---
