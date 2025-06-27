@@ -8,7 +8,7 @@
 
 ![Headshot](headshot.jpg)
 
-**Repository URL**: [https://github.com/muddamn1]
+**Repository URL**: [https://github.com/muddamn1/muddamn1.github.io]
 
 ## 1. Overview
 
